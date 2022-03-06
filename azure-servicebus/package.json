@@ -1,5 +1,0 @@
-{
-  "dependencies": {
-    "@azure/service-bus": "^7.5.0"
-  }
-}

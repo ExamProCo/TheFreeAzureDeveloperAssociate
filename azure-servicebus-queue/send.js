@@ -1,3 +1,4 @@
+require('dotenv').config()
 const { ServiceBusClient } = require("@azure/service-bus");
 
 const connectionString = process.env.CONNECTION_STRING // connection string to your Service Bus namespace
